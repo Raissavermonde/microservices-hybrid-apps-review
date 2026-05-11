@@ -143,3 +143,7 @@ A total of 20 studies were selected and coded E1–E20.
 ## Artifact Availability
 
 All selected studies were retrieved from publicly accessible databases. The extraction protocol, inclusion/exclusion criteria, and classification data presented here are intended to support the review process. Requests for additional information can be directed to the authors via the paper submission system. 
+
+## Autores
+Raissa de Andrade Ribeiro — UFPR Palotina
+Orientador: Prof. Anderson da Silva Marcolino 
